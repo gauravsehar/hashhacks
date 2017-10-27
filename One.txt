@@ -1,0 +1,7 @@
+Things we have done or almost at the final stage: 
+1. Funding infrastructure integration in smart contract. 
+2. Front-end [Donation implementation]. 
+3. Deployment of backend test project using truffle framework.
+Things we are currently working on:
+1. Implementation of spending fund on charitable works
+2. Trustees of charities.
